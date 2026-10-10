@@ -65,9 +65,6 @@ If you use CHOCCS in your research, please cite the associated publication.
 
 *Publication details will be updated upon availability.*
 
-## Contact and Feedback
-
-For questions, suggestions, or technical issues, please open an issue in the [GitHub repository](https://github.com/BaiYCLab/CHOCCS/issues).
 
 ## Availability
 
